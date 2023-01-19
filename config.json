@@ -1,0 +1,15 @@
+{
+    "node_network":"flynet",
+    "type":"curtain",
+    "id":1,
+    "horizontal_dead_on":20,
+    "horizontal_dead_off":0,
+    "horizontal_complete_off":0,
+    "vertical_dead_in":20,
+    "vertical_dead_out":0,
+    "vertical_complete_out":0,
+    "horizontal_reversed":"false",
+    "vertical_reversed":"false",
+    "default_speed":64,
+    "redstone":"left"
+}
