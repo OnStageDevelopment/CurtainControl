@@ -128,11 +128,9 @@ end
 
 local function check_custom(go_type,custom_pos) --Check if the custom drop height is valid
     if go_type == "h" then
-        print("found h")
         type_complete_out = horizontal_complete_off
         type_dead_in = horizontal_dead_on
     elseif go_type == "v" then
-        print("found v")
         type_complete_out = vertical_complete_out
         type_dead_in = vertical_dead_in
     end
