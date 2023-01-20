@@ -44,4 +44,4 @@ request.close()
 print("Updated Drops File")
 
 
-shell.run("curtains")
+shell.run("curtain")
