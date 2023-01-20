@@ -41,7 +41,7 @@ local request = http.get("https://raw.githubusercontent.com/OnStageDevelopment/C
 dropsfile.write(request.readAll())
 dropsfile.close()
 request.close()
-print("Updated Drops File")
+print("Updated Curtain File")
 
 
 shell.run("curtain")
