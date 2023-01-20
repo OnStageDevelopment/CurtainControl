@@ -1,6 +1,6 @@
 if not fs.exists("startup.lua") then
     local startfile = fs.open("startup.lua","w")
-    local request = http.get("https://raw.githubusercontent.com/OnStageDevelopment/DropPulleyControl/main/startup.lua")
+    local request = http.get("https://raw.githubusercontent.com/OnStageDevelopment/CurtainControl/main/startup.lua")
     startfile.write(request.readAll())
     startfile.close()
     request.close()
