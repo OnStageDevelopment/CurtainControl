@@ -6,6 +6,8 @@
 
 # This Program is still in alpha! Do not expect it to be stable.
 
+*I am using this as a learning project to further my knowledge in programming, so dont expect the best code :)*
+
 This program runs on a computer connected to a gantry and pulley system to control the ability to raise and lower the curtain as well as open it and shut it horizontally
 
 
